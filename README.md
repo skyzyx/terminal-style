@@ -2,7 +2,7 @@
 
 This is the OS X Terminal style I use. Enjoy! :)
 
-![Screenshot](type-r-screenshot.png)
+![Screenshot](https://github.com/skyzyx/terminal-style/raw/master/type-r-screenshot.png)
 
 
 ## Public Domain
